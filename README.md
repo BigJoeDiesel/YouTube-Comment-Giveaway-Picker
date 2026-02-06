@@ -3,7 +3,7 @@
 A simple, free Python script that fetches comments from **one of your own YouTube videos**, picks a random commenter, and logs the winner to a text file. Perfect for giveaways, fan shoutouts, or engagement contests — no paid tools required.
 
 Built with the YouTube Data API v3 + a bit of help from Grok (xAI).  
-Created by: BigJoe Kasulis™ (@BigJoeKasulis)
+Created by: BigJoeDiesel™
 
 ## Features
 - Accepts full YouTube URL or plain video ID
